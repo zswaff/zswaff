@@ -11,8 +11,8 @@ I maintain custom [`ypy`](https://github.com/its-dart/ypy/compare/main...zack/en
 Additionally, I
 
 - Built [Yjs collaboration for `lexical-vue`](https://github.com/wobsoriano/lexical-vue/pull/25)
-- Implemented a variety of features and bugfixes for `lexical-vue` like [DecoratorNode rendering](https://github.com/wobsoriano/lexical-vue/pull/14), [placeholder positioning](https://github.com/wobsoriano/lexical-vue/pull/15), [duplicate checklist events](https://github.com/wobsoriano/lexical-vue/pull/20), [checkbox listeners](https://github.com/wobsoriano/lexical-vue/pull/24), and [the table-of-contents composable](https://github.com/wobsoriano/lexical-vue/pull/51).
-- Added a [Django Channels consumer to `ypy-websocket`](https://github.com/y-crdt/ypy-websocket/pull/84), enabling Python backends to be used for Yjs document synchronization.
+- Implemented a variety of features and bugfixes for `lexical-vue` like [DecoratorNode rendering](https://github.com/wobsoriano/lexical-vue/pull/14), [placeholder positioning](https://github.com/wobsoriano/lexical-vue/pull/15), [duplicate checklist events](https://github.com/wobsoriano/lexical-vue/pull/20), [checkbox listeners](https://github.com/wobsoriano/lexical-vue/pull/24), and [the table-of-contents composable](https://github.com/wobsoriano/lexical-vue/pull/51)
+- Added a [Django Channels consumer to `ypy-websocket`](https://github.com/y-crdt/ypy-websocket/pull/84), enabling Python backends to be used for Yjs document synchronization
 
 ## Links
 
